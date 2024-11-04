@@ -32,7 +32,7 @@ UPDATE_PACKAGE "adguardhome" "kenzok8/openwrt-packages" "master" "pkg"
 UPDATE_PACKAGE "luci-app-adguardhome" "kenzok8/openwrt-packages" "master" "pkg"
 # SmartDNS
 UPDATE_PACKAGE "smartdns" "pymumu/openwrt-smartdns" "master" "name"
-UPDATE_PACKAGE "luci-app-smartdns" "pymumu/luci-app-smartdns" "master"
+# UPDATE_PACKAGE "luci-app-smartdns" "pymumu/luci-app-smartdns" "master"
 # WOL
 UPDATE_PACKAGE "luci-app-wolplus" "VIKINGYFY/luci-app-wolplus" "main"
 # 集客AC
