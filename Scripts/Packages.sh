@@ -26,10 +26,9 @@ UPDATE_PACKAGE "luci-app-argon-config" "jerrykuku/luci-app-argon-config" "master
 UPDATE_PACKAGE "kucat" "sirpdboy/luci-theme-kucat" "js"
 
 # Passwall
-UPDATE_PACKAGE "passwall" "xiaorouji/openwrt-passwall" "main" "pkg"
+UPDATE_PACKAGE "luci-app-passwall" "xiaorouji/openwrt-passwall" "main" "pkg"
 # AdguardHome
-UPDATE_PACKAGE "adguardhome" "kenzok8/openwrt-packages" "master" "pkg"
-UPDATE_PACKAGE "luci-app-adguardhome" "kenzok8/openwrt-packages" "master" "pkg"
+UPDATE_PACKAGE "luci-app-adguardhome" "ysuolmai/luci-app-adguardhome" "master"
 # SmartDNS
 UPDATE_PACKAGE "smartdns" "pymumu/openwrt-smartdns" "master" "name"
 UPDATE_PACKAGE "luci-app-smartdns" "pymumu/luci-app-smartdns" "lede"
